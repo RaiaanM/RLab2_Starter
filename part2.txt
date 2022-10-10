@@ -1,1 +1,23 @@
 Fill in the passphrases here.
+<!-- Passcode for question 1: greenEggsAndHam -->
+<h2>Question 9 passcode: 2020sucked</h2>
+<question-four style="display:none">Passcode: JavaScriptRules</question-four>
+<p hidden=""> Passcode for question 3: HTMLRocks</p>
+<script src="dontlookhere.js"></script>
+<div data-question12passcode="iLoveWebDev"></div>
+<title data-question2="iHateCplusplus">Scavenger Hunt</title>
+
+    /* Question 8 passcode: coolcoolcool */
+    h2,
+    img {
+      display: none;
+    }
+  
+  <meta name="question11" content="a11yComesFirst">
+  <span style="opacity: 0;">Question 5 Passcode:
+      SvelteBeatsReact</span>
+ Question 7 Passcode: YouFoundMe
+ Question 6 Passode:ThisIsJS
+ btn.addEventListener('click', () => {
+  fetch('./question10.jpg');
+});
